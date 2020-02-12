@@ -1,0 +1,28 @@
+body {
+  font-size: 15;
+  height: 100vh;
+  background: linear-gradient(90deg, #010205 50%, white 50%);
+}
+p {
+  font-size: 29.5px;
+  font-family: 'Caveat', cursive;
+}
+h1 {
+  font-size: 45px;
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+#hello-world-column2 {
+  text-align: right;
+}
+#hello-world-column1 {;
+  color: white;
+}
+#column2-title {
+  padding-right: 20px;
+}
+img {
+  float: right;
+  width: 300px;
+  padding-right: 50px;
+  opacity: 0.5;
+}
